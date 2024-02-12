@@ -1,6 +1,6 @@
 Project
 -------
-https://github.com/arunawsdevops/Voting-application.git
+https://github.com/AswinP007/Voting-application.git
 create three images for Vote, Result and Worker
 Then create redis container
 docker run -d --name redis -h redis redis
